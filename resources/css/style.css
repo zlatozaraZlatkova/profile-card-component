@@ -51,9 +51,9 @@ body {
   text-align: center;
   padding-bottom: 20px;
 }
-
-h3,
+.avatar h1,
 p {
+  font-size: 16px;
   font-weight: 400;
 }
 
@@ -87,14 +87,13 @@ span {
   font-size: 11px;
   text-align: center;
   color: white;
-  
 }
 .attribution a {
   text-decoration: none;
   color: white;
 }
 .attribution a:hover {
-  color: black
+  color: black;
 }
 
 @media (max-width: 320px) {
