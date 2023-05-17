@@ -21,6 +21,7 @@ body {
   background-position: right 45vw bottom 25vh, left 45vw top 44vh; /*!important*/
   background-color: var(--dark-cyan);
   opacity: 0.9;
+  color: var(--very-dark-blue);
 }
 .container {
   min-height: 90vh;
@@ -93,7 +94,7 @@ span {
   color: white;
 }
 .attribution a:hover {
-  color: black;
+  color: var(--very-dark-blue);
 }
 
 @media (max-width: 320px) {
